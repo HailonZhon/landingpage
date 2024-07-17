@@ -17,7 +17,7 @@ RUN npm install --verbose
 COPY . .
 
 # 构建应用程序
-RUN npm run build
+RUN npm run build --verbose
 
 # 暴露应用程序运行的端口
 EXPOSE 3000
