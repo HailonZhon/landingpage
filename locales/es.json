@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "Construcción rápida",
+    "title2": "Aplicaciones de modelos grandes",
+    "title3": "",
+    "description": "Nanchang Baoping Technology Co., Ltd. se especializa en la aplicación de modelos grandes y modelos multimodales grandes, dedicándose a promover el desarrollo y la aplicación de tecnologías de inteligencia artificial."
+  },
+  "SocialProof": {
+    "maker": "Equipo profesional de investigación de modelos grandes"
+  },
+  "Feature": {
+    "title": "Características"
+  },
+  "Pricing": {
+    "title": "Precios",
+    "title2": "Acceso ilimitado",
+    "description": "El precio que estás viendo es un precio de referencia.",
+    "doYouLike": "Si necesitas personalizar aplicaciones de modelos grandes",
+    "follow": "Contáctanos"
+  },
+  "WallOfLove": {
+    "title": "Casos de Clientes",
+    "description1": "Estamos muy orgullosos de poder brindar servicios a numerosos clientes.",
+    "description2": "",
+    "description3": " Con la autorización de los clientes, mostramos aquí los productos de los clientes que hemos atendido."
+  },
+  "FAQ": {
+    "title": "Guía técnica",
+    "description": "Aquí hay algunas de las preguntas más comunes."
+  },
+  "CTA": {
+    "title": "Construye tu aplicación de modelo grande ahora",
+    "description1": "Construye",
+    "description2": "tu modelo grande,",
+    "description3": "optimiza",
+    "description4": "tus procesos de negocio y comienza a",
+    "description5": "mejorar la eficiencia de tu empresa",
+    "description6": "¡ahora!"
+  },
+  "CTAButton": {
+    "title": "Contáctanos"
+  }
+}

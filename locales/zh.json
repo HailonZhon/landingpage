@@ -1,0 +1,45 @@
+{
+  "Hero": {
+    "title1": "快速构建",
+    "title2": "大模型应用",
+    "title3": "",
+    "description": "南昌宝瓶科技有限公司，专注于大模型/多模态大模型应用落地，致力于推动人工智能技术的发展和应用。"
+  },
+  "SocialProof": {
+    "maker": "专业的大模型学术研究团队"
+  },
+  "Feature": {
+    "title": "特点"
+  },
+  "Pricing": {
+    "title": "定价",
+    "title2": "拥有无限访问权限",
+    "description": "你当前查看的价格是一个参考价格",
+    "doYouLike": "如需定制大模型应用",
+    "follow": "联系我们"
+  },
+  "WallOfLove": {
+    "title": "客户案例",
+    "description1": "我们非常荣幸能够为众多客户",
+    "description2": "提供服务。",
+    "description3": " 经过客户授权，我们在这里展示服务过的客户产品。"
+  },
+
+  "FAQ": {
+    "title": "技术指南",
+    "description": "这里有一些最常见的问题。"
+  },
+  "CTA": {
+    "title": "立即构建你的大模型应用",
+    "description1": "构建",
+    "description2": "你的大模型，",
+    "description3": "优化",
+    "description4": "你的业务流程，并开始",
+    "description5": "提升企业效益",
+    "description6": "！"
+  },
+
+  "CTAButton": {
+    "title": "联系我们"
+  }
+}

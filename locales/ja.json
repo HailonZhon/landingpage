@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "迅速構築",
+    "title2": "大規模モデルアプリケーション",
+    "title3": "",
+    "description": "南昌宝瓶科技有限公司は、大規模モデルおよび多モーダル大規模モデルの応用に特化し、人工知能技術の発展と応用を推進しています。"
+  },
+  "SocialProof": {
+    "maker": "専門的な大規模モデル研究チーム"
+  },
+  "Feature": {
+    "title": "特徴"
+  },
+  "Pricing": {
+    "title": "価格設定",
+    "title2": "無制限アクセス権",
+    "description": "現在表示されている価格は参考価格です。",
+    "doYouLike": "大規模モデルアプリケーションのカスタマイズが必要な場合は、",
+    "follow": "お問い合わせください"
+  },
+  "WallOfLove": {
+    "title": "顧客事例",
+    "description1": "多くの顧客にサービスを提供できることを非常に光栄に思います。",
+    "description2": "",
+    "description3": " 顧客の許可を得て、ここに提供した製品を展示しています。"
+  },
+  "FAQ": {
+    "title": "技術ガイド",
+    "description": "よくある質問とその回答はこちらです。"
+  },
+  "CTA": {
+    "title": "今すぐ大規模モデルアプリケーションを構築する",
+    "description1": "構築する",
+    "description2": "あなたの大規模モデルを",
+    "description3": "最適化する",
+    "description4": "あなたのビジネスプロセスを",
+    "description5": "企業の効率を向上させる",
+    "description6": "！"
+  },
+  "CTAButton": {
+    "title": "お問い合わせ"
+  }
+}

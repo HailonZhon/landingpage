@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "Quickly Build",
+    "title2": "Large Model Applications",
+    "title3": "",
+    "description": "Nanchang Baoping Technology Co., Ltd. specializes in the application of large models and multimodal large models, dedicated to promoting the development and application of artificial intelligence technology."
+  },
+  "SocialProof": {
+    "maker": "Professional Large Model Research Team"
+  },
+  "Feature": {
+    "title": "Features"
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "title2": "Unlimited Access",
+    "description": "The price you are viewing is a reference price.",
+    "doYouLike": "If you need customized large model applications",
+    "follow": "Contact us"
+  },
+  "WallOfLove": {
+    "title": "Customer Cases",
+    "description1": "We are honored to provide services to numerous clients.",
+    "description2": "",
+    "description3": " With customer authorization, we showcase the products we have served here."
+  },
+  "FAQ": {
+    "title": "Technical Guide",
+    "description": "Here are some of the most common questions."
+  },
+  "CTA": {
+    "title": "Build Your Large Model Application Now",
+    "description1": "Build",
+    "description2": "your large model,",
+    "description3": "optimize",
+    "description4": "your business processes, and start",
+    "description5": "improving enterprise efficiency",
+    "description6": "!"
+  },
+  "CTAButton": {
+    "title": "Contact Us"
+  }
+}
