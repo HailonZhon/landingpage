@@ -9,8 +9,6 @@ services:
       - "3000:3000"
     environment:
       NODE_ENV: development
-      HTTP_PROXY: http://127.0.0.1:7890
-      HTTPS_PROXY: http://127.0.0.1:7890
     volumes:
       - .:/app
       - /app/node_modules

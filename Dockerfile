@@ -7,9 +7,6 @@ WORKDIR /app
 # 复制 package.json 和 package-lock.json 文件
 COPY package*.json ./
 
-# 清理 npm 缓存
-RUN npm cache clean --force
-
 # 设置 npm 使用腾讯的 npm 镜像
 RUN npm config set registry https://mirrors.cloud.tencent.com/npm/
 
