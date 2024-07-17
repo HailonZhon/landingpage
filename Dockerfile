@@ -7,9 +7,6 @@ WORKDIR /app
 # 复制 package.json 和 package-lock.json 文件
 COPY package*.json ./
 
-# 设置 npm 使用腾讯的 npm 镜像
-RUN npm config set registry https://mirrors.cloud.tencent.com/npm/
-
 # 安装依赖
 RUN npm install --verbose
 
@@ -24,4 +21,3 @@ EXPOSE 3000
 
 # 启动应用程序
 CMD ["npm", "start"]
-
