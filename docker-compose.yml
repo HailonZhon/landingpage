@@ -3,9 +3,7 @@ version: '3.8'
 services:
   web:
     build:
-      context: landing-page-boilerplate
-      dockerfile: landing-page-boilerplate/Dockerfile
+      context: .
+      dockerfile: Dockerfile
     ports:
       - "3000:3000"
-    volumes:
-      - .:/app

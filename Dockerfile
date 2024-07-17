@@ -10,8 +10,9 @@ COPY package*.json ./
 # 安装依赖
 RUN npm install --verbose
 
+RUN mkdir -p /app/landing-page-boilerplate
 # 复制应用程序的其他代码
-COPY landing-page-boilerplate .
+COPY . /app/landing-page-boilerplate
 
 # 构建应用程序
 RUN npm run build --verbose
