@@ -11,7 +11,7 @@ COPY package*.json ./
 RUN npm install --verbose
 
 # 复制应用程序的其他代码
-COPY . .
+COPY landing-page-boilerplate .
 
 # 构建应用程序
 RUN npm run build --verbose
