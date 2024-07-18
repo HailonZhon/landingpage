@@ -9,7 +9,8 @@ export enum TiersEnum {
   Free = "free",
   Pro = "pro",
   Team = "team",
-  Customize = "customize"
+  OnPremise = 'OnPremise', // 添加 OnPremise 属性
+  Cloud = 'Cloud'          // 添加 Cloud 属性
 }
 
 export type Frequency = {
