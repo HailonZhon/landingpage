@@ -1,5 +1,5 @@
-import { siteConfig } from "@/config/site";
-import { Tier, TiersEnum } from "@/types/pricing";
+import {siteConfig} from "@/config/site";
+import {Tier, TiersEnum} from "@/types/pricing";
 
 export const TIERS_EN: Array<Tier> = [
   {
@@ -237,6 +237,6 @@ export const ALL_TIERS: TiersCollection = {
   TIERS_RU
 };
 
-    // buttonText: "Связаться с нами",
-    // buttonColor: "default",
-    // buttonVariant: "flat",
+// buttonText: "Связаться с нами",
+// buttonColor: "default",
+// buttonVariant: "flat",
