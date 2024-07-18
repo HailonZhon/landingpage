@@ -1,12 +1,12 @@
 {
   "Hero": {
     "title1": "Quickly Build",
-    "title2": "Large Model Applications",
+    "title2": "Large Language Model Applications",
     "title3": "",
-    "description": "Nanchang Baoping Technology Co., Ltd. specializes in the application of large models and multimodal large models, dedicated to promoting the development and application of artificial intelligence technology."
+    "description": "Nanchang Aquarius Technology Co., Ltd. specializes in the application of large language models and vision language models, dedicated to promoting the development and application of artificial intelligence technology."
   },
   "SocialProof": {
-    "maker": "Professional Large Model Research Team"
+    "maker": "Professional Large Language Model Research Team"
   },
   "Feature": {
     "title": "Features"
@@ -15,7 +15,7 @@
     "title": "Pricing",
     "title2": "Unlimited Access",
     "description": "The price you are viewing is a reference price.",
-    "doYouLike": "If you need customized large model applications",
+    "doYouLike": "If you need customized large language model applications",
     "follow": "Contact us"
   },
   "WallOfLove": {
@@ -29,9 +29,9 @@
     "description": "Here are some of the most common questions."
   },
   "CTA": {
-    "title": "Build Your Large Model Application Now",
+    "title": "Build Your Large Language Model Application Now",
     "description1": "Build",
-    "description2": "your large model,",
+    "description2": "your large language model,",
     "description3": "optimize",
     "description4": "your business processes, and start",
     "description5": "improving enterprise efficiency",

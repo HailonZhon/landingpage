@@ -1,12 +1,12 @@
 {
   "Hero": {
     "title1": "快速构建",
-    "title2": "大模型应用",
+    "title2": "大语言模型应用",
     "title3": "",
-    "description": "南昌宝瓶科技有限公司，专注于大模型/多模态大模型应用落地，致力于推动人工智能技术的发展和应用。"
+    "description": "南昌宝瓶科技有限公司，专注于大模型/多模态大语言模型应用落地，致力于推动人工智能技术的发展和应用。"
   },
   "SocialProof": {
-    "maker": "专业的大模型学术研究团队"
+    "maker": "专业的大语言模型学术研究团队"
   },
   "Feature": {
     "title": "特点"
@@ -30,9 +30,9 @@
     "description": "这里有一些最常见的问题。"
   },
   "CTA": {
-    "title": "立即构建你的大模型应用",
+    "title": "立即构建你的大语言模型应用",
     "description1": "构建",
-    "description2": "你的大模型，",
+    "description2": "你的大语言模型，",
     "description3": "优化",
     "description4": "你的业务流程，并开始",
     "description5": "提升企业效益",
