@@ -55,3 +55,4 @@ export type SiteConfig = {
     creator: string
   },
 }
+

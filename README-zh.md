@@ -1,4 +1,4 @@
-🌍 *[英文](README.md) ∙ [简体中文](README-zh.md)*
+w🌍 *[英文](README.md) ∙ [简体中文](README-zh.md)*
 
 # [Landing page boilerplate](https://landingpage.weijunext.com/)
 

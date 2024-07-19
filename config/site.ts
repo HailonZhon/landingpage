@@ -9,7 +9,7 @@ const baseSiteConfig = {
   name: "南昌宝瓶科技有限公司",
   description:
     "南昌宝瓶科技有限公司，专注于大语言模型/多模态大语言模型应用落地，致力于推动人工智能技术的发展和应用。",
-  url: "https://yourcompanywebsite.com",
+  url: "https://aquarius.galen.life",
   ogImage: "https://yourcompanywebsite.com/og.png",
   metadataBase: '/',
   keywords: ["南昌宝瓶科技", "大语言模型", "多模态大语言模型", "人工智能"],
