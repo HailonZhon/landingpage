@@ -16,7 +16,7 @@ module.exports = {
     {
       name: 'landingpage-dev',
       script: 'npm',
-      args: 'run dev',
+      args: 'start',
       cwd: __dirname,
       instances: 1,
       exec_mode: 'fork',
